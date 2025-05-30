@@ -1,5 +1,5 @@
 **Project Name:**
-Clustering/Classification Analysis
+Clustering Analysis
 
 ## Description
 
